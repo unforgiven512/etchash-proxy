@@ -1,7 +1,7 @@
 package proxy
 
 import (
-	"../util"
+	"github.com/unforgiven512/etchash-proxy/util"
 	"log"
 	"math/big"
 	"strconv"
@@ -10,7 +10,6 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/etclabscore/go-etchash"
 	"github.com/ethereum/go-ethereum/common"
 )
 

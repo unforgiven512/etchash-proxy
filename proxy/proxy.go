@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"../rpc"
+	"github.com/unforgiven512/etchash-proxy/rpc"
 )
 
 type ProxyServer struct {

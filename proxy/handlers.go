@@ -4,7 +4,7 @@ import (
 	"log"
 	"strconv"
 
-	"../util"
+	"github.com/unforgiven512/etchash-proxy/util"
 )
 
 func (s *ProxyServer) handleGetWorkRPC(cs *Session, diff, id string) (reply []string, errorReply *ErrorReply) {
