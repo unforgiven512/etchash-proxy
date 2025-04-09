@@ -19,3 +19,4 @@
 ## PROJECT-SPECIFIC FILES ##
 
 config.json
+build/bin/
