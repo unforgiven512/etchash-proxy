@@ -10,6 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/etclabscore/go-etchash"
 	"github.com/ethereum/go-ethereum/common"
 )
 
