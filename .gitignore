@@ -1,0 +1,21 @@
+#
+# .gitignore
+#
+
+## BACKUP & TEMPORARY FILES ##
+
+*~
+*.bak
+*.tmp
+*.swp
+
+
+## IDE-SPECIFIC FILES ##
+
+.idea/
+.vscode/
+
+
+## PROJECT-SPECIFIC FILES ##
+
+config.json
